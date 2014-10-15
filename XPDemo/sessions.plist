@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>Tag</key>
+            <string>Donnerstag</string>
+            <key>Sessions</key>
+            <array>
+                <dict>
+                    <key>Session</key>
+                    <string>JUnit HierarchicalContextRunner: Mehr Struktur in Unit-Test bringen!</string>
+                    <key>Speaker</key>
+                    <string>Stefan Bechtold</string>
+                    <key>Room</key>
+                    <string>Großer Saal (304)</string>
+                    <key>Abstract</key>
+                    <string>Jeder, der sich mit Ruby Specs auskennt, weiß, dass eine hierarchische Struktur innerhalb der Unit Tests hilft die Tests deutlich sauberer und lesbarer zu machen. Außerdem wird dadurch die Anzahl von Boilerplate Setup Code entschieden reduziert. Ich persönlich war sehr enttäuscht, dass JUnit keine derartige Unterstützung für hierarchische Tests bietet. Workarounds, die mithilfe von inneren statischen Klassen und Vererbung Abhilfe schaffen, “verschlimmbessern” das Grundproblem meines Erachtens nur: Denn der Test-Code wird noch weniger lesbar! Als Erweiterung zu JUnit bietet der HierarchicalContextRunner eine wirklich Lösung für dieses Problem. Mithilfe von inneren Klassen können Kontexte (Gruppierungen) erzeugt werden, die zu verschiedenen Zwecken genutzt werden können. Dieser Vortrag zeigt die Stärken des HierarchicalContextRunners für JUnit auf und gibt eine Idee, wie Testfälle deutlich sauberer strukturiert werden können.</string>
+                </dict>
+                <dict>
+                    <key>Session</key>
+                    <string>DevOps - Nur eine Frage der richtigen Haltung?</string>
+                    <key>Speaker</key>
+                    <string>Richard Bock</string>
+                    <key>Room</key>
+                    <string>Kleiner Saal (303)</string>
+                    <key>Abstract</key>
+                    <string>Das Thema DevOps ist in aller Munde. Uns ist mittlerweile klar, wie wichtig es ist, dass wir Entwicklung und Betrieb ins selbe Boot holen. Was theoretisch überzeugt, funktioniert aber in der Praxis in vielen Unternehmen nicht. Wie verschieden ticken Entwickler und Administratoren? Warum sehen sie die IT-Welt so gegensätzlich? Können wir diese konträren Perspektiven als Chance nutzen? Gibt es eine IT-Kultur, die beide Lager vereinen kann? Eine Kultur, in der ein Produkt agil entwickelt und dessen Betrieb sicher und effizient umgesetzt werden kann? Technologien wie Vagrant, Puppet, Chef und Ansible verändern die technischen Möglichkeiten. Virtualisierung ist schon lange in der Praxis angekommen. Dadurch verschwimmen die Grenzen zwischen Entwicklung und Betrieb, was neues Konfliktpotential schafft! Der Vortrag wird einige Antworten aus meiner langjährigen Praxis geben. Meine Erfahrungen als Lead-Architect und Lead-Entwickler in einem Multi-National und einem Web Startup ermöglichen es mir, unterschiedliche Unternehmenskulturen zu beurteilen und neue Lösungsansätze aufzuzeigen. Auch meine Erfahrung bei der Einführung von Agile in die Telekommunikationsbranche zeigt interessante Parallelen zum Thema auf.</string>
+                </dict>
+            </array>
+        </dict>
+        <dict>
+            <key>Tag</key>
+            <string>Freitag</string>
+            <key>Sessions</key>
+            <array>
+                <dict>
+                    <key>Session</key>
+                    <string>User Stories - Zurück auf Los!</string>
+                    <key>Speaker</key>
+                    <string>Arne Roock, Sebastian Eichner</string>
+                    <key>Room</key>
+                    <string>Großer Saal (304)</string>
+                    <key>Abstract</key>
+                    <string>Beispiele für die Wichtigkeit der Ziele und des Kontextes: Unterschiedliche User Stories nach Frontend und Backend aufzusplitten, gilt als sehr schlechte Idee. Tatsächlich kann es aber eine sehr gute Idee sein! Wenn es uns z.B. darum geht, sehr schnell etwas über Usability unserer Software zu lernen, dann ist eine User Story dieser Art vielleicht sehr sinnvoll: “Als Geschäftsführer möchte ich eine klickbare Dummy-Oberfläche haben, damit ich erfahre ob unsere Kunden das neue UI-Konzept verstehen.” Der User ist dann nicht der Endanwender, und wir erhalten bei erfolgreicher Umsetzung der Story kein nutzbares Feature - trotzdem eine super Story! Wenn aber in einem anderen Kontext die Planbarkeit im Vordergrund steht, nicht wie eben das Lernen, dann sollten User Stories im Allgemeinen immer Durchstiche durch alle Layer enthalten. Kontext und verfolgtes Ziel beeinflussen hier also maßgeblich was eine “gute” User Story ist.</string>
+                </dict>
+                <dict>
+                    <key>Session</key>
+                    <string>Agile Xchange: Schwierigkeiten in Projekten erfolgreich meistern</string>
+                    <key>Speaker</key>
+                    <string>Dominik Jungowski, Björn Schotte</string>
+                    <key>Room</key>
+                    <string>Kleiner Saal (303)</string>
+                    <key>Abstract</key>
+                    <string>Auch in agilen Softwareprojekten kann es Schwierigkeiten geben: Kunden, die die agilen Prinzipien nicht verstehen, Product Owner, die die Schätzungen des Teams hinterfragen, Teams, die nur Erwartungen an den PO haben, jedoch nicht die Zusammenarbeit suchen, Vertragskonstrukte, die agiles Arbeiten behindern. Ausgehend von den agilen Prinzipien und einer systemischen Betrachtung der Kunden-/Dienstleister- (intern wie extern) Beziehung möchten wir in dieser interaktiven Session mit Ihnen War Stories austauschen und gemeinsam Lösungswege finden, damit Ihr agiles Softwareprojekt wieder auf Spur kommt.</string>
+                </dict>
+            </array>
+        </dict>
+    </array>
+</plist>
