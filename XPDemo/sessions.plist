@@ -4,55 +4,85 @@
     <array>
         <dict>
             <key>Tag</key>
-            <string>Donnerstag</string>
+            <string>Montag</string>
             <key>Sessions</key>
             <array>
                 <dict>
                     <key>Session</key>
-                    <string>JUnit HierarchicalContextRunner: Mehr Struktur in Unit-Test bringen!</string>
+                    <string>Keynote-Panel: Alles neu in der iPhone Welt</string>
                     <key>Speaker</key>
-                    <string>Stefan Bechtold</string>
+					<string>Conradi, Tobias\nGentz, Ortwin\nGünther, Sven\nWessel, Ivo</string>
                     <key>Room</key>
-                    <string>Großer Saal (304)</string>
+                    <string>Track 1</string>
                     <key>Abstract</key>
-                    <string>Jeder, der sich mit Ruby Specs auskennt, weiß, dass eine hierarchische Struktur innerhalb der Unit Tests hilft die Tests deutlich sauberer und lesbarer zu machen. Außerdem wird dadurch die Anzahl von Boilerplate Setup Code entschieden reduziert. Ich persönlich war sehr enttäuscht, dass JUnit keine derartige Unterstützung für hierarchische Tests bietet. Workarounds, die mithilfe von inneren statischen Klassen und Vererbung Abhilfe schaffen, “verschlimmbessern” das Grundproblem meines Erachtens nur: Denn der Test-Code wird noch weniger lesbar! Als Erweiterung zu JUnit bietet der HierarchicalContextRunner eine wirklich Lösung für dieses Problem. Mithilfe von inneren Klassen können Kontexte (Gruppierungen) erzeugt werden, die zu verschiedenen Zwecken genutzt werden können. Dieser Vortrag zeigt die Stärken des HierarchicalContextRunners für JUnit auf und gibt eine Idee, wie Testfälle deutlich sauberer strukturiert werden können.</string>
+					<string>Auf Apple's WWDC 2014 wurde das neue mobile Betriebssystem iOS 8 vorgestellt und mit Swift eine moderne und innovative Programmiersprache. Zur Eröffnung der IPDC 2014 stellen Ihnen die Experten die wichtigsten Neuerungen vor. \n\tiOS 8: alles neu, Möglichkeiten aber auch Stolperfallen\n\tTakt der iOS Updates immer schneller\n\tSwift (oder doch das gute alte Objective-C?)\n\tganz neu: Apple Health, HomeKit, CloudKit, Adaptive UserInterface\n\tAusblick: Apple Watch</string>
                 </dict>
                 <dict>
                     <key>Session</key>
-                    <string>DevOps - Nur eine Frage der richtigen Haltung?</string>
+                    <string>iOS 8</string>
                     <key>Speaker</key>
-                    <string>Richard Bock</string>
+                    <string>Conradi, Tobias</string>
                     <key>Room</key>
-                    <string>Kleiner Saal (303)</string>
+                    <string>Track 1</string>
                     <key>Abstract</key>
-                    <string>Das Thema DevOps ist in aller Munde. Uns ist mittlerweile klar, wie wichtig es ist, dass wir Entwicklung und Betrieb ins selbe Boot holen. Was theoretisch überzeugt, funktioniert aber in der Praxis in vielen Unternehmen nicht. Wie verschieden ticken Entwickler und Administratoren? Warum sehen sie die IT-Welt so gegensätzlich? Können wir diese konträren Perspektiven als Chance nutzen? Gibt es eine IT-Kultur, die beide Lager vereinen kann? Eine Kultur, in der ein Produkt agil entwickelt und dessen Betrieb sicher und effizient umgesetzt werden kann? Technologien wie Vagrant, Puppet, Chef und Ansible verändern die technischen Möglichkeiten. Virtualisierung ist schon lange in der Praxis angekommen. Dadurch verschwimmen die Grenzen zwischen Entwicklung und Betrieb, was neues Konfliktpotential schafft! Der Vortrag wird einige Antworten aus meiner langjährigen Praxis geben. Meine Erfahrungen als Lead-Architect und Lead-Entwickler in einem Multi-National und einem Web Startup ermöglichen es mir, unterschiedliche Unternehmenskulturen zu beurteilen und neue Lösungsansätze aufzuzeigen. Auch meine Erfahrung bei der Einführung von Agile in die Telekommunikationsbranche zeigt interessante Parallelen zum Thema auf.</string>
+					<string>Auf der WWDC 2014 stellte Apple mit iOS 8 eines der größten Releases für Entwickler seit der Einführung des iPhone SDKs vor. Dieser Vortrag bietet einen Überblick über die wichtigsten Neuerungen in iOS wie size classes, extensions und vieles mehr. (Bis November erwarten wir noch einige Neuigkeiten, auch diese werden eingebaut.)</string>
                 </dict>
+				<dict>
+					<key>Session</key>
+					<string>Gelungene App-Lokalisierung - das Umschiffen sprachlicher Untiefen</string>
+					<key>Speaker</key>
+					<string>Lotze, Felix\nGurtschmann, Oliver</string>
+					<key>Room</key>
+					<string>Track 1</string>
+					<key>Abstract</key>
+					<string>Mit den App Stores sind viele Hürden für das globale Anbieten von Programmen überwunden. Nur eine ist noch verblieben: die eigentliche Bereitstellung von Apps in den jeweiligen Sprachen. Wer sich für die Lokalisierung seiner App entscheidet, wird auf seinem Weg unweigerlich verschiedenste Hindernisse überwinden müssen. In diesem Vortrag möchten wir Techniken und Vorgehensweisen näher bringen, mit denen sich die gröbsten Stolperfallen bei der Umsetzung umschiffen lassen, damit weder der internationale User noch der Entwickler Schiffbruch erleiden.</string>
+				</dict>
+				<dict>
+					<key>Session</key>
+					<string>iBeacon Modelle und Einsatzmöglichkeiten</string>
+					<key>Speaker</key>
+					<string>Wessel, Ivo</string>
+					<key>Room</key>
+					<string>Track 1</string>
+					<key>Abstract</key>
+					<string>Der Markenname iBeacon ist ein 2013 von Apple Inc. eingeführter, proprietärer Standard für Navigation in geschlossenen Räumen, basierend auf Bluetooth Low Energy (BLE). Ivo Wessel stellt in dieser Session die verschiedenen Modelle und Einsatzmöglichkeiten vor.</string>
+				</dict>
+				<dict>
+					<key>Session</key>
+					<string>Einführung in Entwicklung und Vertrieb von Mobile Indie Games</string>
+					<key>Speaker</key>
+					<string>Wessel, Ivo</string>
+					<key>Room</key>
+					<string>Track 1</string>
+					<key>Abstract</key>
+					<string>Wir starten mit einer Nachbetrachtung der Entwicklung des Indie Games ... and then it rained, angefangen bei der ersten Idee, über die Konzeption, Entwicklung, die Veröffentlichung bis hin zur Post-­‐Release Phase. Unter anderem werden dabei folgende Fragen betrachtet: \nWelche Technologien und Werkzeuge kamen zum Einsatz?\nWie wurde Marketing und Pressearbeit gemacht?\nWie hat sich das Spiel verkauft und wie haben sich die Zahlen entwickelt?\nWas lief positiv und welche Fehler wurden gemacht?\nWas unterscheidet „Indie Game Development“ von der klassischen Spieleentwicklung großer Studios oder Publisher?\nAbschließend werfen wir einen Blick auf den gegenwärtigen Stand des Mobile Markts und diskutieren, wie und ob man als unabhängige Entwickler in Zukunft noch erfolgreich „Indie Games“ für mobile Märkte produzieren kann.</string>
+				</dict>
             </array>
         </dict>
         <dict>
             <key>Tag</key>
-            <string>Freitag</string>
+            <string>Dienstag</string>
             <key>Sessions</key>
             <array>
                 <dict>
                     <key>Session</key>
-                    <string>User Stories - Zurück auf Los!</string>
+                    <string>Migration zu iOS 8 mit Swift</string>
                     <key>Speaker</key>
-                    <string>Arne Roock, Sebastian Eichner</string>
+                    <string>Ivo Wessel</string>
                     <key>Room</key>
-                    <string>Großer Saal (304)</string>
+                    <string></string>
                     <key>Abstract</key>
-                    <string>Beispiele für die Wichtigkeit der Ziele und des Kontextes: Unterschiedliche User Stories nach Frontend und Backend aufzusplitten, gilt als sehr schlechte Idee. Tatsächlich kann es aber eine sehr gute Idee sein! Wenn es uns z.B. darum geht, sehr schnell etwas über Usability unserer Software zu lernen, dann ist eine User Story dieser Art vielleicht sehr sinnvoll: “Als Geschäftsführer möchte ich eine klickbare Dummy-Oberfläche haben, damit ich erfahre ob unsere Kunden das neue UI-Konzept verstehen.” Der User ist dann nicht der Endanwender, und wir erhalten bei erfolgreicher Umsetzung der Story kein nutzbares Feature - trotzdem eine super Story! Wenn aber in einem anderen Kontext die Planbarkeit im Vordergrund steht, nicht wie eben das Lernen, dann sollten User Stories im Allgemeinen immer Durchstiche durch alle Layer enthalten. Kontext und verfolgtes Ziel beeinflussen hier also maßgeblich was eine “gute” User Story ist.</string>
+                    <string>Dieser Workshop zeigt im Detail und anhand vieler praxisgerechter Beispiele, wie Sie Ihre Applikationen aktualisieren und die neuen Möglichkeiten optimal nutzen können – damit Sie für die Zukunft namens iOS 8 gerüstet sind. Hier darf auch der Objective-C Nachfolger "Swift" nicht zu kurz kommen.</string>
                 </dict>
                 <dict>
                     <key>Session</key>
-                    <string>Agile Xchange: Schwierigkeiten in Projekten erfolgreich meistern</string>
+                    <string>iOS-Entwicklung automatisiert vom Test bis zum Deployment</string>
                     <key>Speaker</key>
-                    <string>Dominik Jungowski, Björn Schotte</string>
+                    <string>Günther, Sven\nBohlmann, Holger</string>
                     <key>Room</key>
-                    <string>Kleiner Saal (303)</string>
+                    <string></string>
                     <key>Abstract</key>
-                    <string>Auch in agilen Softwareprojekten kann es Schwierigkeiten geben: Kunden, die die agilen Prinzipien nicht verstehen, Product Owner, die die Schätzungen des Teams hinterfragen, Teams, die nur Erwartungen an den PO haben, jedoch nicht die Zusammenarbeit suchen, Vertragskonstrukte, die agiles Arbeiten behindern. Ausgehend von den agilen Prinzipien und einer systemischen Betrachtung der Kunden-/Dienstleister- (intern wie extern) Beziehung möchten wir in dieser interaktiven Session mit Ihnen War Stories austauschen und gemeinsam Lösungswege finden, damit Ihr agiles Softwareprojekt wieder auf Spur kommt.</string>
+                    <string>Wir entwickeln gemeinsam eine App nach professionellen Methoden. Dazu gehören Akzeptanz- und Unit-Tests sowie ein Continuous Deployment System mit Jenkins. Wir testen damit automatisiert eine Beispiel-App und stellen nach jedem Commit unsere Ergebnisse als Download zur Verfügung. Wir zeigen, wie man Poduktivcode testgetrieben entwickelt und schon zu Beginn Akzeptanz-Tests aufbaut. Somit haben wir früh einen Walking Skeleton, den wir dann schrittweise anhand von kurzen User-Stories weiter ausbauen.</string>
                 </dict>
             </array>
         </dict>
